@@ -1,2 +1,2 @@
-# dio-java-bootcamp
-Conjunto de atividades, códigos e anotações de estudos realizados durante o bootcamp de Java ofertado pela DIO.
+# Digital Innovation One - JAVA Bootcamp
+Os códigos foram realizados com o apoio das aulas, com comentários inclusos.
