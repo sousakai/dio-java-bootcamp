@@ -1,3 +1,4 @@
+//Código referente as aulas de anatomia de classes em Java.
 public class MinhaClasse {
     public static void main (String [] args) {
 // A classe, quando é executável e tem a capacidade de inicializar o projeto (ou de forma independente), ela precisa de um método específico, chamado main.
