@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Usuario",
+      "projectName": "dio-java-bootcamp_a79d05c5"
+    },
+    {
+      "type": "java",
       "name": "Operadores2",
       "request": "launch",
       "mainClass": "Operadores2",
