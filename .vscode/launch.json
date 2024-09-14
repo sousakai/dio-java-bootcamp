@@ -1,45 +1,42 @@
 {
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "java",
-      "name": "Usuario",
-      "request": "launch",
-      "mainClass": "Usuario",
-      "projectName": "dio-java-bootcamp_a79d05c5"
-    },
-    {
-      "type": "java",
-      "name": "Operadores2",
-      "request": "launch",
-      "mainClass": "Operadores2",
-      "projectName": "dio-java-bootcamp_a79d05c5"
-    },
-    {
-      "type": "java",
-      "name": "Operadores",
-      "request": "launch",
-      "mainClass": "Operadores",
-      "projectName": "dio-java-bootcamp_a79d05c5"
-    },
-    {
-      "name": "C/C++ Runner: Debug Session",
-      "type": "cppdbg",
-      "request": "launch",
-      "args": [],
-      "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "d:/GIT/dio-java-bootcamp/java-anatomia-classes",
-      "program": "d:/GIT/dio-java-bootcamp/java-anatomia-classes/build/Debug/outDebug",
-      "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "setupCommands": [
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
         {
-          "description": "Enable pretty-printing for gdb",
-          "text": "-enable-pretty-printing",
-          "ignoreFailures": true
+            "type": "java",
+            "name": "ScannerSobreMim",
+            "request": "launch",
+            "mainClass": "ScannerSobreMim",
+            "projectName": "dio-java-bootcamp_a79d05c5"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "dio-java-bootcamp_a79d05c5"
+        },
+        {
+            "type": "java",
+            "name": "SobreMim",
+            "request": "launch",
+            "mainClass": "SobreMim",
+            "projectName": "dio-java-bootcamp_a79d05c5"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "dio-java-bootcamp_a79d05c5"
         }
-      ]
-    }
-  ]
+    ]
 }
