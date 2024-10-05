@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaBancaria",
+            "request": "launch",
+            "mainClass": "ContaBancaria",
+            "projectName": "dio-java-bootcamp_a79d05c5"
+        },
+        {
+            "type": "java",
             "name": "ScannerSobreMim",
             "request": "launch",
             "mainClass": "ScannerSobreMim",
