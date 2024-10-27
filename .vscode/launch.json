@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "dio-java-bootcamp_a79d05c5"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "dio-java-bootcamp_a79d05c5"
+        },
+        {
+            "type": "java",
             "name": "ContaBancaria",
             "request": "launch",
             "mainClass": "ContaBancaria",
