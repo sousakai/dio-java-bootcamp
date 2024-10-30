@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-bootcamp.iml" filepath="$PROJECT_DIR$/.idea/dio-java-bootcamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/estruturas-condicionais-java/estruturas-condicionais-java.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/estruturas-condicionais-java/estruturas-condicionais-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/java-anatomia-classes/java-anatomia-classes.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/java-anatomia-classes/java-anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/lacos-repeticao/lacos-repeticao.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/lacos-repeticao/lacos-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/metodos-java/metodos-java.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/metodos-java/metodos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-codigo-java/projeto-codigo-java.iml" filepath="$PROJECT_DIR$/projeto-codigo-java/projeto-codigo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/terminal-argumentos-java/terminal-argumentos-java.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/terminal-argumentos-java/terminal-argumentos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica-java/tipo-variaveis-java/tipo-variaveis-java.iml" filepath="$PROJECT_DIR$/sintaxe-basica-java/tipo-variaveis-java/tipo-variaveis-java.iml" />
+    </modules>
+  </component>
+</project>
